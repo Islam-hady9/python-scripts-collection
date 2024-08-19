@@ -54,4 +54,8 @@ Suppose you have a directory `/home/user/photos/` containing files like `image1.
 
 - Python 3.x
 
+No external libraries are required to run this program. It uses Python's built-in `os` module.
+
+---
+
 This script is particularly useful when you have a lot of files with arbitrary names and want to standardize their names with a consistent prefix and numbering.
